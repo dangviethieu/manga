@@ -1,4 +1,4 @@
-from web.congig.base import BaseConfig
+from web.apps.config.base import BaseConfig
 
 
 class TestingConfig(BaseConfig):
