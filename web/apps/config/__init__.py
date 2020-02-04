@@ -1,7 +1,7 @@
-from web.apps.config.dev import DevConfig
-from web.apps.config.test import TestingConfig
-from web.apps.config.product import ProductConfig
-from web.apps.config.base import BaseConfig
+from apps.config.dev import DevConfig
+from apps.config.test import TestingConfig
+from apps.config.product import ProductConfig
+from apps.config.base import BaseConfig
 
 
 config_by_name = dict(

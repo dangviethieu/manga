@@ -1,4 +1,4 @@
-from web.apps.config.base import BaseConfig
+from apps.config.base import BaseConfig
 
 
 class ProductConfig(BaseConfig):

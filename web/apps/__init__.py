@@ -1,4 +1,4 @@
-from web.apps.config import config_by_name
+from apps.config import config_by_name
 
 from flask import Flask
 
