@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+manga/manga/__pycache__/
+manga/manga/spider/__pycache__/
 *.py[cod]
 *$py.class
 
